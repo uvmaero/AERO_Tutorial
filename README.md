@@ -13,3 +13,7 @@ See the video with more information. Link to be posted.
      - merging responsibly
 
      - checking out specific files
+
+# Common Commands
+
+[git commands](Git_Commands.md)
