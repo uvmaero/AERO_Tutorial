@@ -12,7 +12,7 @@ The Pull command is used to bring any changes that might have been made to the r
 The Commit is a lot like the save button for your code. It functions in a similar manner to that of the Push command, but instead of how Push updates the repo in remote storage (on Github), the Commit command simply saves your work and doesn't make your changes available to others. So this is very helpful if you want to have your code saved locally and on the in a remote place interent, but it's not ready for implementation yet. 
 
 **Clone:**
-The Clone command allows you to bring a complete copy of a codebase to your local folder, so if you don't already have the code on your computer, then you can use the Clone commaned. 
+The Clone command allows you to bring a complete copy of a codebase to your local folder, so if you don't already have the code on your computer, then you can use the Clone command to bring it down to for local use. 
 
 ## Merging Changes
 
