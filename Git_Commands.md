@@ -57,7 +57,10 @@ Now I am staging my changes with the ```git add``` command so I can then commit 
 
 Finally, on Github we can see that my changes successfully pushed and can be viewed by others!
 ![Screenshot from 2021-12-03 14-50-17](https://user-images.githubusercontent.com/38026244/144664314-4c01a204-669f-4b2a-8e0f-9c6b5b165cfe.png)
+<br />
 
+
+If you have any questions at all, please reach out!!! George and I are more than willing to help answer any questions!!!!
 
 
 
