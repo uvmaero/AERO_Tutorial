@@ -31,7 +31,7 @@ The Checkout command allows you to change your current working branch on Github.
 
 ## A Helpful Diagram
 <p align="center">
-  <img src="https://github.com/uvmaero/AERO_Tutorial/blob/main/git-commands.png" />
+  <img src="images/git-commands.png" />
 </p>
 
 ## Even More Documentation on Git:
