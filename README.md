@@ -16,13 +16,16 @@ See the video with more information. Link to be posted.
 
 # Common Git Commands
 
-Here's an overview of some of the most common commands you'll be using. There is much more and this barely scratches surface, but it's a good place to start 
-
-[Git Commands](Git_Commands.md)
+Here's an overview of some of the most common commands you'll be using. There is much more and this barely scratches surface, but it's a good place to start. [Git Commands](Git_Commands.md)
 
 # Tutorials
 
 Now, We are in the process of seting up some tutorials for everyone to try. In the "Tutorials" Folder you'll find different Tutorials to try. For this, we will not be covering how to create a repo, only using an established one. If you want to learn more (or different) information, go to the [Additional Resources](#addition-resources) section. 
+
+**Getting Started** 
+ 
+ - [Terminal](Tutorials/1_Terminal_GettingStarted.md)
+ - [GitHub Desktop](Tutorials/1_GitHub_GettingStarted.md)
 
 # Additional Resources
 
