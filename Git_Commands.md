@@ -16,7 +16,8 @@ The Commit is a lot like the save button for your code. It functions in a simila
 **Merge:**
 The Merge command allows you to apply the changes you made to code from one branch to another, it's kind of like a highway on-ramp, all of the previous code is still on the highway, you're just adding new code to what already exists. 
 
-**Checkout** bring over a file from another file without directly merging
+**Checkout:**
+The Checkout command allows you to change your current working branch on Github. This command also allows you to create a new branch and then get to working inside of it right away.
 
 
 ## A Helpful Diagram
