@@ -25,13 +25,6 @@ The Merge command allows you to apply the changes you made to code from one bran
 **Checkout:**
 The Checkout command allows you to change your current working branch on Github. This command also allows you to create a new branch and then get to working inside of it right away. The command can be called like this ```git checkout``` while inside the branch you would like to checkout.<br />
 
-## Example of Multiple Commands:
-```git clone "https://github.com/uvmaero/AERO_Tutorial"``` <br />
-~ make some changes to the code  & while inside the working folder in your terminal~ <br />
-``` git commit``` <br />
-```git push```<br />
-now any changes you made are saved and pushed to the uvmaero/AERO_Tutorial repo!<br />
-
 
 ## A Helpful Diagram
 <p align="center">
@@ -40,3 +33,29 @@ now any changes you made are saved and pushed to the uvmaero/AERO_Tutorial repo!
 
 ## Even More Documentation on Git:
 Believe it or not, this is pretty much scratching the suface of the full range of functionalilty that Github offers, so [here](https://docs.github.com/en) you can do futher reading if you'd like to learn even more about the wonderful world of Github!
+
+
+## Example of Multiple Commands:
+```git clone "https://github.com/uvmaero/AERO_Tutorial"``` <br />
+~ make some changes to the code  & while inside the working folder in your terminal~ <br />
+``` git commit``` <br />
+```git push```<br />
+now any changes you made are saved and pushed to the uvmaero/AERO_Tutorial repo!<br />
+
+## Full Example in the Terminal:
+Here I am navigating to a test file to practice making a change:
+![Screenshot from 2021-12-03 14-21-23](https://user-images.githubusercontent.com/38026244/144663758-0a2748cf-8b6e-4a23-8316-86fe453f7af0.png)
+<br />
+Here I am modifing the file (just in my terminal editor because this is a .txt, we would use and IDE for actual code)
+![Screenshot from 2021-12-03 14-42-00](https://user-images.githubusercontent.com/38026244/144663878-1b54b370-c8b1-4216-bc96-182d0f884988.png)
+<br />
+Now I am staging my changes with the ```git add``` command so I can then commit and push them
+![Screenshot from 2021-12-03 14-43-02](https://user-images.githubusercontent.com/38026244/144663977-009cce65-9cc8-48bf-bf93-284e147d05a6.png)
+<br />
+
+Finally, on Github we can see that my changes successfully pushed and can be viewed by others!
+![Screenshot from 2021-12-03 14-43-22](https://user-images.githubusercontent.com/38026244/144664085-3df23eac-baf3-4d4f-aa9d-cc38cfd1e1b1.png)
+
+
+
+
