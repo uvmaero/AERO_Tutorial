@@ -21,7 +21,5 @@ The Merge
 
 ## A Helpful Diagram
 <p align="center">
-  <img src="http://" />
+  <img src="https://github.com/uvmaero/AERO_Tutorial/blob/main/git-commands.png" />
 </p>
-
-![git-commands](https://user-images.githubusercontent.com/38026244/144654712-d3cf25e6-0df3-49d0-953b-fa3e2ad7b829.png)
