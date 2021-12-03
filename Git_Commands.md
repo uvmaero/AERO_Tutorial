@@ -8,6 +8,9 @@ The Push command is used to publish and save the changes you made to your code t
 **Pull:**
 The Pull command is used to bring any changes that might have been made to the repo down to your local copy. So if somebody modified the code and pushed, you would then use Pull to bring the new code to your computer for you to edit and view. The command be called like this ```git pull``` while inside the branch you would like to pull from. <br />
 
+**Add:**
+The Add command allows you to stage your changes, you're pretty much gathering all the files you would like to Commit and Push. So it would be called like this ```git add file1 file2 etc```. After and only after using the Add command can you Commit and Push.
+
 **Commit:**
 The Commit is a lot like the save button for your code. It functions in a similar manner to that of the Push command, but instead of how Push updates the repo in remote storage (on Github), the Commit command simply saves your work and doesn't make your changes available to others. So this is very helpful if you want to have your code saved locally and on the in a remote place interent, but it's not ready for implementation yet. The command can be called like this ``` git commit``` or preferably ```git commit -m "commit mesage/description"```<br />
 
