@@ -14,24 +14,16 @@ See the video with more information. Link to be posted.
 
      - checking out specific files
 
-# Common Commands
+# Common Git Commands
 
-[git commands](Git_Commands.md)
+Here's an overview of some of the most common commands you'll be using. There is much more and this barely scratches surface, but it's a good place to start 
 
-# Full Example in the Terminal:
-Here I am navigating to a test file to practice making a change:
-![Screenshot from 2021-12-03 14-21-23](https://user-images.githubusercontent.com/38026244/144663758-0a2748cf-8b6e-4a23-8316-86fe453f7af0.png)
-<br />
+[Git Commands](Git_Commands.md)
 
-Here I am modifing the file (just in my terminal editor because this is a .txt, we would use and IDE for actual code)
-![Screenshot from 2021-12-03 14-42-00](https://user-images.githubusercontent.com/38026244/144663878-1b54b370-c8b1-4216-bc96-182d0f884988.png)
-<br />
+# Tutorials
 
-Now I am staging my changes with the ```git add``` command so I can then commit and push them
-![Screenshot from 2021-12-03 14-43-02](https://user-images.githubusercontent.com/38026244/144663977-009cce65-9cc8-48bf-bf93-284e147d05a6.png)
-<br />
+Now, We are in the process of seting up some tutorials for everyone to try. In the "Tutorials" Folder you'll find different Tutorials to try. For this, we will not be covering how to create a repo, only using an established one. If you want to learn more (or different) information, go to the [Additional Resources](#addition-resources) section. 
 
-Finally, on Github we can see that my changes successfully pushed and can be viewed by others!
-![Screenshot from 2021-12-03 14-50-17](https://user-images.githubusercontent.com/38026244/144664314-4c01a204-669f-4b2a-8e0f-9c6b5b165cfe.png)
-<br />
+# Additional Resources
 
+This guide cannot hope to cover all the information. Here are some external tutorials and videos to get you up to speed. If you find other resources that you want to share with others, add them here (using your new knowledge of git commands!)
