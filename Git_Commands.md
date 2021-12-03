@@ -41,6 +41,7 @@ Believe it or not, this is pretty much scratching the suface of the full range o
 ## Example of Multiple Commands:
 ```git clone "https://github.com/uvmaero/AERO_Tutorial"``` <br />
 ~ make some changes to the code  & while inside the working folder in your terminal~ <br />
+```git add fileThatWasChanged``` <br />
 ``` git commit``` <br />
 ```git push```<br />
 now any changes you made are saved and pushed to the uvmaero/AERO_Tutorial repo!<br />
