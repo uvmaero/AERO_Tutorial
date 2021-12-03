@@ -3,10 +3,7 @@
 ## Syncing Data
 
 **Push:**
-The Push command is used to publish and save the changes you made to your code to the remote repo (on Github). This command saves your changes and makes them available to everyone else who can see the repo. The command can be called like this: 
-'''
-git push
-'''
+The Push command is used to publish and save the changes you made to your code to the remote repo (on Github). This command saves your changes and makes them available to everyone else who can see the repo. The command can be called like this: ```git push```
 
 **Pull:**
 The Pull command is used to bring any changes that might have been made to the repo down to your local copy. So if somebody modified the code and pushed, you would then use Pull to bring the new code to your computer for you to edit and view. 
