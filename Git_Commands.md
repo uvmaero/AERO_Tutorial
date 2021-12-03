@@ -30,9 +30,13 @@ The Checkout command allows you to change your current working branch on Github.
 ~ make some changes to the code  & while inside the working folder in your terminal~ <br />
 ``` git commit``` <br />
 ```git push```<br />
+now any changes you made are saved and pushed to the uvmaero/AERO_Tutorial repo!
 
 
 ## A Helpful Diagram
 <p align="center">
   <img src="https://github.com/uvmaero/AERO_Tutorial/blob/main/git-commands.png" />
 </p>
+
+## Even More Documentation on Git:
+Believe it or not, this is pretty much scratching the suface of the full range of functionalilty that Github offers, so [here](https://docs.github.com/en) you can do futher reading if you'd like to learn even more about the wonderful world of Github!
