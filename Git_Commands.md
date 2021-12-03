@@ -26,10 +26,10 @@ The Merge command allows you to apply the changes you made to code from one bran
 The Checkout command allows you to change your current working branch on Github. This command also allows you to create a new branch and then get to working inside of it right away. The command can be called like this ```git checkout``` while inside the branch you would like to checkout.
 
 ## Example of Multiple Commands:
-```git clone "https://github.com/uvmaero/AERO_Tutorial"```
-~ make some changes to the code  & while inside the working folder in your terminal~
-``` git commit```
-```git push```
+```git clone "https://github.com/uvmaero/AERO_Tutorial"``` <br />
+~ make some changes to the code  & while inside the working folder in your terminal~ <br />
+``` git commit``` <br />
+```git push```<br />
 
 
 ## A Helpful Diagram
