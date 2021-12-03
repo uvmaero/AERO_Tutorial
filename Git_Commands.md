@@ -20,4 +20,8 @@ The Merge
 
 
 ## A Helpful Diagram
+<p align="center">
+  <img src="http://" />
+</p>
+
 ![git-commands](https://user-images.githubusercontent.com/38026244/144654712-d3cf25e6-0df3-49d0-953b-fa3e2ad7b829.png)
