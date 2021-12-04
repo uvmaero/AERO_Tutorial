@@ -1,7 +1,0 @@
-Welcome to text file 1!
-
-If you've made it this far in the tutorial, Thanks!
-
------------------------------------------------------
-
-im making my first change! -dom 
