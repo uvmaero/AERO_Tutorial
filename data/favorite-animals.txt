@@ -4,4 +4,8 @@ Monke (╯°□°)╯︵ ┻━┻
 Giraffe
 Elephant
 Horse
+<<<<<<< HEAD
 George Spearing
+=======
+Fish
+>>>>>>> ca88b28bf91adc641936845c50b1e28d623850d4
