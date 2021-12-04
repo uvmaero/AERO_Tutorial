@@ -32,6 +32,10 @@ Now press ```Commit to main```.
 
 Good, now the changes are saved, but they are not available to everyone else. To solve that, look at the top bar, there should be an option to "Push Origin". Do that. If everything went well, you should have a screen that says "No Local Changes". (FYI: local means 'on your machine' whereas remote is what's published everywhere else)
 
+## WARNING: MERGE CONFLICTS 
+
+**Add information about merge conflicts and what to do**
+
 ## Verify Changes
 
 GitHub only shows the remote version of the repo. So, if you want to check if your changes actually pushed or not, you can go to the [AERO Tutorial](https://github.com/uvmaero/AERO_Tutorial) GitHub repository and check what that version says. If it's different than you expect, double check you "push orgin" after commiting. 
