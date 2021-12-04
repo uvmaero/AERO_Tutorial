@@ -1,0 +1,5 @@
+pink
+blue
+red
+pink
+orange
