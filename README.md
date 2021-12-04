@@ -1,6 +1,6 @@
 # AERO Tutorial Documentation
 
-See the video with more information. Link to be posted. For a text editor, we will be using VSCode. You can use anything to work through these tutorials, but VSCode has support for Git and many other useful tools. 
+See the video with more information. Link to be posted. 
 
 # Lessons to Take Away
 
@@ -18,15 +18,7 @@ See the video with more information. Link to be posted. For a text editor, we wi
 
 # VSCode
 
-First, download [VSCode](https://code.visualstudio.com/). This starts as a simple text editor. To make it more useful you'll need to enable some extensions
-
-## Extensions
-
-Open a new VSCode window. On the task bar on the left, click on the ```Extensions``` block. (Should be 5th option from the top). Now install the following: 
-
- - C/C++ Extension Pack
- - Python
- - PlatformIO IDE (Actually we're moving away from this, so don't worry about install this)
+Be sure to checkout the tutorial on [VSCode](Tutorials/1_VSCode_GettingStarted.md). For a text editor, we will be using VSCode. You can use anything to work through these tutorials, but VSCode has support for Git and many other useful tools. 
 
 # Common Git Commands
 
@@ -48,9 +40,11 @@ Now, We are in the process of seting up some tutorials for everyone to try. In t
 
  - Do Some Tutorials
 
-    - [Terminal](Tutorials/1_Terminal_GettingStarted.md)
- 
     - [GitHub Desktop](Tutorials/1_GitHub_GettingStarted.md)
+
+    - [VSCode](Tutorials/1_VSCode_GettingStarted.md)
+
+    - [Terminal](Tutorials/1_Terminal_GettingStarted.md)
 
 - Still Want more? 
 
