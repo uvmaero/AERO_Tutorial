@@ -8,11 +8,35 @@
 
 ## What are Branches?
 
+Branches are a way to keep projects organized with different versions. For example, one branch is always "main" (or "master") and a second could be "board-developement". Then you can make changes on "board-development" withouth affecting other branches. Once the code works, you can push to main. "Main" should be the latest **working** version of everything. 
+
 ## Naming Conventions and Structures
+
+If you are adding a feature to the code base start the branch name with "feature-[FeatureName]" where FeatureName is what you plan on adding. 
 
 ## Create a new branch
 
+From the github desktop you can go to `Current Branch -> New Branch`
+
+From the terminal you can say: 
+
+    git branch [BranchName]
+
+which will create a new branch, then you can switch to it. 
+
+or **(recommended)**
+
+    git switch -c [BranchName]
+
+which will create and switch to the new branch.
+
+To Switch between branches you can use `switch` or select the branch in the github desktop. 
+
 ## Create a Second Branch
+
+Here's something you can try: In this repository, add a branch with your user name. Then create and add a file in the `data` folder that is called **bookRecommendation** and has the name of your favorite book. 
+
+Start by going to the main branch and [creating a new branch](#create-a-new-branch). Then create a new text file and commit and push to that branch. Then you can switch back to main and see that the file does not exist in main. 
 
 ## Deleting a branch
 
