@@ -6,3 +6,5 @@ Elephant
 Horse
 George Spearing
 Fish
+Orangutan
+Hummingbird 
