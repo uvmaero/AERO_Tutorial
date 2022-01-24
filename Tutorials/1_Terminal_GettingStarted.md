@@ -6,6 +6,14 @@
 
 **Outcome**: Understanding how to use git to get files and publish changes
 
+## Setting up Git on your computer
+
+Before you can do anything, you'll need to make an SSH key and add it to your GitHub account. That way you'll be able to push changes. 
+
+Creating SSH Key and Add it to GitHub -> [Start Here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
+
+
 ## Cloning a Repo
 
 Here I am navigating to a test file to practice making a change:

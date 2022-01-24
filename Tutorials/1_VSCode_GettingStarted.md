@@ -34,7 +34,7 @@ Open a new VSCode window. On the task bar on the left, click on the `Extensions`
 
 ## Using Source Control
 
-It is recommended to do the [GitHub Desktop](Tutorials/1_GitHub_GettingStarted.md) Tutorial first. Once you see how to use the desktop, VSCode is very similar. 
+It is recommended to do the [GitHub Desktop](1_GitHub_GettingStarted.md) Tutorial first. Once you see how to use the desktop, VSCode is very similar. 
 
 With the AERO_Tutorial folder open, let's modify the `favorite-color.txt` file in `data`. Add your favorite color. Save that change and go to the Source Control Tab.  You'll see the files that have been modified in your local repo and not yet committed. To add the file, press the `+` symbol that appears when you hover over the file. This adds it to the staged changes. Next, in the message box at the top, type in a commit message (remember, keep short and consise). Then press ctrl+enter to commit the change. Finally press "Sync Changes" button that should appear. 
 
