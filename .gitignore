@@ -1,2 +1,8 @@
 # c compiled files
 *.out
+
+# vscode files
+.vscode
+
+# ds store files
+.DS_Store
