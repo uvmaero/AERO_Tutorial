@@ -20,7 +20,7 @@ Open a new VSCode window. On the task bar on the left, click on the `Extensions`
 
  - C/C++ Extension Pack
  - Python
- - PlatformIO IDE (Actually we're moving away from this, so don't worry about install this)
+ - PlatformIO IDE
 
  For now you'll be using just text files and source control which are built in functionality. In future tutorials, you'll also be editing code, so add these extensions to make future things easier. 
 
