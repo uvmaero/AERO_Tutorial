@@ -1,20 +1,18 @@
-# AERO Tutorial Documentation
-
-See the video with more information. Link to be posted. 
+# AERO Tutorial Documentation:
 
 # Lessons to Take Away
 
- - VSCode (Enough to get you setup)
+ - VSCode Usage
 
- - cloning, pulling, pushing
+ - Cloning, Pulling, Pushing
  
- - branches
+ - Branches
 
-     - purpose and good naming conventions
+     - Purpose and good naming conventions
 
-     - merging responsibly
+     - Merging responsibly
 
-     - checking out specific files
+     - Checking out specific files
 
 # VSCode
 
@@ -51,12 +49,6 @@ Now, We are in the process of seting up some tutorials for everyone to try. In t
     - Checkout
 
     - Merging
-
-- Even more? 
-
-    - Patching
-
-    - Other Advanced Things
 
 # Additional Resources
 
